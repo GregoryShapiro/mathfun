@@ -1,0 +1,46 @@
+{
+  "@@locale": "en",
+  "appTitle": "Math Fun",
+  "mainMenuTitle": "Math Fun Games",
+  "chooseGame": "Choose a Game",
+  "sumMasterTitle": "Sum Master",
+  "score": "Score: {score}",
+  "@score": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "level": "Level: {level}",
+  "@level": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "targetSum": "Target Sum: {sum}",
+  "@targetSum": {
+    "placeholders": {
+      "sum": {
+        "type": "int"
+      }
+    }
+  },
+  "matches": "Matches: {current}/{total}",
+  "@matches": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "gameOver": "Game Over!",
+  "playAgain": "Play Again",
+  "language": "Language",
+  "next": "Next"
+}

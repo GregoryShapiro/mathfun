@@ -1,0 +1,15 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Математические Игры",
+  "mainMenuTitle": "Математические Игры",
+  "chooseGame": "Выберите Игру",
+  "sumMasterTitle": "Мастер Сложения",
+  "score": "Счёт: {score}",
+  "level": "Уровень: {level}",
+  "targetSum": "Целевая Сумма: {sum}",
+  "matches": "Совпадения: {current}/{total}",
+  "gameOver": "Игра Окончена!",
+  "playAgain": "Играть Снова",
+  "language": "Язык",
+  "next": "Следующий"
+}

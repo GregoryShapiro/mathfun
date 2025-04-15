@@ -1,0 +1,15 @@
+{
+  "@@locale": "es",
+  "appTitle": "Juegos Matemáticos",
+  "mainMenuTitle": "Juegos Matemáticos",
+  "chooseGame": "Elige un Juego",
+  "sumMasterTitle": "Maestro de Sumas",
+  "score": "Puntuación: {score}",
+  "level": "Nivel: {level}",
+  "targetSum": "Suma Objetivo: {sum}",
+  "matches": "Coincidencias: {current}/{total}",
+  "gameOver": "¡Juego Terminado!",
+  "playAgain": "Jugar de Nuevo",
+  "language": "Idioma",
+  "next": "Siguiente"
+}

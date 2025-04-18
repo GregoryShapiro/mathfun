@@ -4,6 +4,7 @@
   "mainMenuTitle": "Math Fun Games",
   "chooseGame": "Choose a Game",
   "sumMasterTitle": "Sum Master",
+  "multiplicationMasterTitle": "Multiplication Master",
   "score": "Score: {score}",
   "@score": {
     "placeholders": {
@@ -39,8 +40,10 @@
       }
     }
   },
+  "hearts": "Hearts",
   "gameOver": "Game Over!",
   "playAgain": "Play Again",
   "language": "Language",
-  "next": "Next"
+  "next": "Next",
+  "finalScore": "Final Score"
 }

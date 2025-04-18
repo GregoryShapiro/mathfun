@@ -4,12 +4,15 @@
   "mainMenuTitle": "Математические Игры",
   "chooseGame": "Выберите Игру",
   "sumMasterTitle": "Мастер Сложения",
+  "multiplicationMasterTitle": "Мастер Умножения",
   "score": "Счёт: {score}",
   "level": "Уровень: {level}",
   "targetSum": "Целевая Сумма: {sum}",
   "matches": "Совпадения: {current}/{total}",
+  "hearts": "Жизни",
   "gameOver": "Игра Окончена!",
   "playAgain": "Играть Снова",
   "language": "Язык",
-  "next": "Следующий"
+  "next": "Следующий",
+  "finalScore": "Итоговый Счёт"
 }

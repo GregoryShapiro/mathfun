@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'sum_master_game.dart';
+import 'multiplication_master_game.dart';
 import '../widgets/language_selector.dart';
 
 class MainMenu extends StatelessWidget {
@@ -54,6 +55,23 @@ class MainMenu extends StatelessWidget {
                 );
               },
               child: Text('${t.sumMasterTitle} 🧮'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                backgroundColor: Colors.orange.shade300,
+                foregroundColor: Colors.white,
+                textStyle: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                elevation: 5,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
+              ),
+              onPressed: () {
+                Navigator.of(context).push(
+                  MaterialPageRoute(builder: (context) => const MultiplicationMasterGame()),
+                );
+              },
+              child: Text('${t.multiplicationMasterTitle} 🔢'),
             ),
             const SizedBox(height: 20),
             // Place for future games

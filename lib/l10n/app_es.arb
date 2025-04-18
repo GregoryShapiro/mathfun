@@ -4,12 +4,15 @@
   "mainMenuTitle": "Juegos Matemáticos",
   "chooseGame": "Elige un Juego",
   "sumMasterTitle": "Maestro de Sumas",
+  "multiplicationMasterTitle": "Maestro de Multiplicaciones",
   "score": "Puntuación: {score}",
   "level": "Nivel: {level}",
   "targetSum": "Suma Objetivo: {sum}",
   "matches": "Coincidencias: {current}/{total}",
+  "hearts": "Corazones",
   "gameOver": "¡Juego Terminado!",
   "playAgain": "Jugar de Nuevo",
   "language": "Idioma",
-  "next": "Siguiente"
+  "next": "Siguiente",
+  "finalScore": "Puntuación Final"
 }
